@@ -1,0 +1,141 @@
+.footer-left-list {
+    float: left;
+    margin-right: 168px;
+}
+
+.footer-panel {
+    margin: 0px;
+    padding-top: 53px;
+    padding-bottom: 0px;
+}
+
+.ul-footer-all {
+    min-height: 175px;
+    margin-bottom: 32px;
+}
+
+.footer-ul {
+    padding: 0;
+    margin: 0;
+    columns: 2; 
+    list-style-type: none;
+    width: 263px;
+}
+
+.footer-ul-li {
+    margin-bottom: 7.9px;
+}
+
+.footer-middle-list {
+    float: left;
+}
+
+.footer-middle-ul {
+    margin-top: 9px;
+    margin-bottom: 0px;
+    padding: 0;
+    padding-left: 6px;
+    list-style-type: none;
+}
+
+.footer-ul-li-long {
+    width: 170px;
+}
+
+.footer-right-list {
+    float: right;
+    margin-bottom: 30px;
+}
+
+.social-network-list {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    /*Переполнение ссылок на соцсети в footer-е*/
+    height: 53px;
+    overflow: hidden;
+}
+
+.social-network:first-child {
+    display: inline-block;
+    margin: 0px;
+}
+
+.social-network {
+    display: inline-block;
+    margin-left: 11px;
+}
+
+.social-network-general-rules {
+    display: block;
+    width: 46px;
+    height: 46px;
+
+}
+
+.vk-footer {
+    background-image: url("../img/vk-logo.png");
+}
+
+.facebook-footer {
+    background-image: url("../img/facebook-logo.png");
+}
+
+.twitter-footer {
+    background-image: url("../img/twitter-logo.png");
+}
+
+.inst-footer {
+    background-image: url("../img/instagram-logo.png");
+}
+
+.footer-address {
+    float: right;
+    clear: right;
+    padding-right: 40px;
+}
+
+.address-ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+}
+
+.address-ul-li {
+    margin-bottom: 21px
+}
+
+.address-ul-li:last-child {
+    margin: 0px;
+}
+
+.tel-footer {
+    background-image: url("../img/phone-icon.png");
+    background-repeat: no-repeat;
+    background-position: -4px -5px;
+    padding-left: 41px;
+    letter-spacing: 1.2px;
+    font-style: normal;
+}
+
+.mail-footer {
+    background-image: url("../img/message-icon.png");
+    background-repeat: no-repeat;
+    background-position: 3px -2px;
+    padding-left: 40px;
+    letter-spacing: 0.6px;
+    font-style: normal;
+}
+
+.copyright {
+    position: relative;
+    clear: both;
+    text-align: center;
+    padding: 16px;
+    font-size: 13.4px;
+    border-top: 1px solid #26354e;
+}
+
+.copyright-p {
+    margin: 0px;
+}
